@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
 - :construction_worker: **Currently working as** `CNC Operator/Programmer`
 - :books: **Currently learning** `Frontend & Backend development` 
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=MatteoLovric&amp;color=EA4335&amp;style=flat-square)](mailto:m4lovric@gmail.com)
