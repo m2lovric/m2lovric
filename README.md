@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About me
 
 - :construction_worker: **Working as** `CNC Operator/Programmer`
 - :books: **Currently learning** `Frontend & Backend development` 
