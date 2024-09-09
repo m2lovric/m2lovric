@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 [Frontend repo](https://github.com/m2lovric/issue-tracker-test)
 [Backend repo](https://github.com/m2lovric/issue-tracker-test-api)
 
+- **Car configurator** : The "Car Configurator" project is a web-based application that allows users to customize their ideal car by selecting various parts and components and save it in list. <br>
+  [Audi configurator](https://github.com/m2lovric/audi-configurator)
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages & Frameworks
