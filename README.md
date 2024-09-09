@@ -37,7 +37,12 @@ Here are some ideas to get you started:
 [Backend repo](https://github.com/m2lovric/issue-tracker-test-api)
 
 - **Car configurator** : The "Car Configurator" project is a web-based application that allows users to customize their ideal car by selecting various parts and components and save it in list. <br>
-  [Audi configurator](https://github.com/m2lovric/audi-configurator)
+  [Audi configurator repo](https://github.com/m2lovric/audi-configurator)
+  [Live](https://lustrous-cheesecake-a3c876.netlify.app/)
+
+- **Agency website** : The "Agency website" project showcases my ability to transform a design into a fully functional and responsive website using React and Tailwind CSS. <br>
+  [Agency website repo](https://github.com/m2lovric/agency_website)
+  [Live](https://sunny-medovik-e99c5b.netlify.app/)
 
 ## 🛠️ My Skills
 
