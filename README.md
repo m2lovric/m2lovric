@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 ## :hammer: Projects
 - **Issue tracker** : The "Issue Tracker" project is a web application designed for managing and tracking tasks within a team. The goal of the project is to integrate both backend and frontend development skills.<br>
-[Frontend repo](https://github.com/m2lovric/issue-tracker-test)
+[Frontend repo](https://github.com/m2lovric/issue-tracker-test)<br>
 [Backend repo](https://github.com/m2lovric/issue-tracker-test-api)
 
 - **Car configurator** : The "Car Configurator" project is a web-based application that allows users to customize their ideal car by selecting various parts and components and save it in list. <br>
-  [Audi configurator repo](https://github.com/m2lovric/audi-configurator)
+  [Audi configurator repo](https://github.com/m2lovric/audi-configurator)<br>
   [Live](https://lustrous-cheesecake-a3c876.netlify.app/)
 
 - **Agency website** : The "Agency website" project showcases my ability to transform a design into a fully functional and responsive website using React and Tailwind CSS. <br>
-  [Agency website repo](https://github.com/m2lovric/agency_website)
+  [Agency website repo](https://github.com/m2lovric/agency_website)<br>
   [Live](https://sunny-medovik-e99c5b.netlify.app/)
 
 ## 🛠️ My Skills
