@@ -30,13 +30,11 @@ Here are some ideas to get you started:
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=MatteoLovric&amp;color=EA4335&amp;style=flat-square)](mailto:m4lovric@gmail.com)
 
 <br>
-## :hammer: Projects ###
-- **Issue tracker** 
-<br>
-  The "Issue Tracker" project is a web application designed for managing and tracking tasks within a team. The goal of the project is to integrate both backend and frontend development skills.
-<br>
-  `Frontend` [Link](https://github.com/m2lovric/issue-tracker-test) <br>
-  `Backend` [Link](https://github.com/m2lovric/issue-tracker-test-api)
+
+## :hammer: Projects
+- **Issue tracker** : The "Issue Tracker" project is a web application designed for managing and tracking tasks within a team. The goal of the project is to integrate both backend and frontend development skills.<br>
+[Frontend repo](https://github.com/m2lovric/issue-tracker-test)
+[Backend repo](https://github.com/m2lovric/issue-tracker-test-api)
 
 ## 🛠️ My Skills
 
