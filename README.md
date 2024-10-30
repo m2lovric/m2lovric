@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About me
 
 - :construction_worker: **Working as** `CNC Operator/Programmer`
-- :books: **Currently learning** `Frontend & Backend development` 
+- :books: **Currently learning** `Mobile development/Kotlin` 
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=MatteoLovric&amp;color=EA4335&amp;style=flat-square)](mailto:m4lovric@gmail.com)
 
 <br>
